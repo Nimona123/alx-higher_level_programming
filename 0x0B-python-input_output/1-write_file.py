@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-write_file.py
-Nimona123<argano4444@gmail.com>
+# Nimona123<argano4444@gmail.com>
 """Defines a file-writing function."""
 
 
